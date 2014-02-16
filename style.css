@@ -4,7 +4,6 @@ div.title {
 	text-decoration: underline;
 	cursor: pointer;
 	background-color: rgb(44, 212, 44);
-
 }
 
 div.underTitle {
@@ -32,14 +31,3 @@ div.bitOfSpace {
 	height: 40px;
 	background-color: green;
 }
-
-
-
-
-
-
-
-
-
-
-
